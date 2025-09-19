@@ -1,6 +1,4 @@
-/* body{
-    background-color: red !important;
-} */
+
 .product_details_small_image_width {
    width: 10vw;
 }
@@ -101,7 +99,6 @@
 .feature-card {
    display: flex;
    align-items: center;
-   /* background-color:black; */
    color: white;
    padding: 10px 15px;
    border-radius: 6px;
