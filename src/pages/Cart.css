@@ -9,7 +9,6 @@
     color: rgb(82, 80, 80);
 }
 
-/* --- Mobile View Styles (screens up to 575.98px) --- */
 @media (max-width: 575.98px) {
     .y_scrolling {
         /* On small phones, height is auto, with an optional max-height */
